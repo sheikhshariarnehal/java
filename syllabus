@@ -1,0 +1,21 @@
+Topics for Quiz 2:  (Half of the topics are from Quiz 1)
+1. Classes and Objects //
+2. Methods //
+3. Constructor //
+4. This keyword 
+5. Polymorphism
+6. Getters and Setters 
+7. Access Specifiers (Private, Public, etc)
+8. Inheritance //
+9. Abstract Class
+10. Interface
+11. Super Keyword
+12. Arrays
+13. Array of Objects
+14. Reference Variable/Making Equal Objects
+15. Static Keyword
+
+
+Short Cut:
+psvm = public static void main(String[] args)
+syout =  System.out.println();
